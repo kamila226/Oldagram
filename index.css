@@ -2,13 +2,13 @@ html, body {
     margin: 0;
     padding: 0;
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 /* layout*/
 
 .container {
-    width: 375px;
+    width: 550px;
     margin: 0 auto;
 }
 
@@ -78,7 +78,7 @@ header {
 /* typography */
 
 h1 {
-    font-size: 13px;
+    font-size: 15px;
 }
 
 h1, p {
