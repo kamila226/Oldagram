@@ -73,6 +73,7 @@ header {
 
 .icon:hover {
     opacity: 80%;
+    cursor: pointer;
 }
 
 /* typography */
